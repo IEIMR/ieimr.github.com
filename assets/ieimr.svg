@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="29mm"
+   viewBox="0 0 100 29"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   sodipodi:docname="ieimr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="100mm"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="186.71393"
+     inkscape:cy="-78.263325"
+     inkscape:window-width="1920"
+     inkscape:window-height="1201"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path10920"
+       style="font-weight:800;font-size:10.5833px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.04295"
+       d="m 75.301963,29 h 7.20533 v -9.903458 h 3.206996 L 91.336946,29 H 100 L 92.79467,17.592219 c 3.248648,-1.755042 5.206165,-4.88905 5.206165,-8.8170027 C 98.000835,3.1757933 94.002501,0 87.213664,0 H 75.301963 Z M 86.214082,6.3097972 c 2.707202,0 4.289878,1.2953919 4.289878,3.4683002 0,1.9639766 -1.166182,3.1757936 -3.290296,3.1757936 H 82.507293 V 6.3097972 Z M 41.649319,29 h 6.997082 V 12.703169 l 5.997498,11.82565 h 5.456058 L 66.222408,11.95101 V 29 H 73.21949 V 0 H 66.347353 L 57.725947,16.92363 48.604752,0 h -6.955433 z m -9.412747,0 h 7.330274 V 0 H 32.236572 Z M 9.4127473,29 H 30.154099 V 22.648413 H 16.618077 V 17.466857 H 28.98792 V 11.115275 H 16.618077 V 6.3515867 H 30.154099 V 0 H 9.4127473 Z M 0,29 H 7.3302743 V 0 H 0 Z"
+       inkscape:export-filename="/home/larry/Pictures/path10920.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:10.5833px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';stroke-width:0.264583"
+       x="33.504059"
+       y="66.24852"
+       id="text14411"><tspan
+         sodipodi:role="line"
+         id="tspan14409"
+         style="stroke-width:0.264583"
+         x="33.504059"
+         y="66.24852" /></text>
+  </g>
+</svg>
